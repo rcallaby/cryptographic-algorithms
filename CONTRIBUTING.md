@@ -4,24 +4,10 @@ Welcome to the contributing guide of cryptographic-algorithms. We welcome contri
 
 ## Code of Conduct
 
-We have a Code of Conduct that all contributors are expected to follow. Please make sure to read it before making any contributions.
-
-**✔️ Examples of behavior that contributes to creating a positive environment include:**
-
-+ Using welcoming and inclusive language
-+ Being respectful of differing viewpoints and experiences
-+ Gracefully accepting constructive criticism
-+ Focusing on what is best for the community
-+ Showing empathy towards other community members
-
-**❌ Examples of unacceptable behavior by participants include:**
-
-+ The use of sexualized language or imagery and unwelcome sexual attention or advances
-+ Trolling, insulting/derogatory comments, and personal or political attacks
-+ Public or private harassment
-+ Publishing others' private information, such as a physical or electronic address, without explicit permission
-+ Other conduct which could reasonably be considered inappropriate in a professional setting
-
+We have a [Code of Conduct](https://github.com/rcallaby/cryptographic-algorithms/blob/main/CODE_OF_CONDUCT.md) that all contributors are expected to follow. Please make sure to read it before making any contributions. <br></br>
+**Note :** 
++ *Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.*
++ *Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.*
 ## Issues
 
 Before submitting a bug report or feature request, please check to see if an issue for that has already been filed. If there is, please add any additional information you have to the existing issue.
