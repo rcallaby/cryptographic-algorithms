@@ -31,7 +31,7 @@ If there isn't an issue for what you want to report, please open a new issue wit
 
 ## Pull Requests
 
-We love pull requests! If you're submitting a pull request, please keep the following in mind:
+If you're submitting a pull request, please keep the following in mind:
 
 - Make sure your code adheres to our Code of Conduct and coding standards
 - Test your changes before submitting
