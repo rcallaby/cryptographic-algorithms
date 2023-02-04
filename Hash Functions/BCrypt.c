@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+//TODO: This code needs some work, it has some syntax errors I need to fiind and fix
+
 // The number of rounds to use in the key expansion process
 #define ROUNDS 16
 
@@ -26,7 +28,7 @@ void block_function(unsigned char *state, unsigned char *key) {
     x = (x ^ (p1 << 24)) | ((x ^ (p1 << 16)) & 0x00FF0000) | 
         ((x ^ (p1 << 8)) & 0x0000FF00) | (x ^ p1);
     y = (y ^ (p2 << 24)) | ((y ^ (p2 << 16)) & 0x00FF0000) | 
-        ((y ^ (p2 &#8203;`oaicite:{"index":0,"invalid_reason":"Malformed citation << 8)) & 0x0000FF00) | (y ^ p2);\n    \n    state[0] = (unsigned char)(x >> 24 & 0xFF);\n    state[1] = (unsigned char)(x >> 16 & 0xFF);\n    state[2] = (unsigned char)(x >> 8 & 0xFF);\n    state[3] = (unsigned char)(x & 0xFF);\n    state[4] = (unsigned char)(y >> 24 & 0xFF);\n    state[5] = (unsigned char)(y >> 16 & 0xFF);\n    state[6] = (unsigned char)(y >>"}`&#8203; 8 & 0xFF);
+        ((y ^ (p2 &#8203;`oaicite:{"index":0,"invalid_reason":"Malformed citation << 8)) & 0x0000FF00) | (y ^ p2);\n    \n    state[0] = (unsigned char)(x >> 24 & 0xFF);\n    state[1] = (unsigned char)(x >> 16 & 0xFF);\n    state[2] = (unsigned char)(x >> 8 & 0xFF);\n    state[3] = (unsigned char)(x & 0xFF);\n    state[4] = (unsigned char)(y >> 24 & 0xFF);\n    state[5] = (unsigned char)(y >> 16 & 0xFF);\n    state[6] = (unsigned char)(y >>"}`&#8203; 8 & 0xFF));
     state[7] = (unsigned char)(y & 0xFF);
   }
 }

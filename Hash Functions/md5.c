@@ -2,6 +2,8 @@
 #include <string.h>
 #include <math.h>
 
+//TODO: This code has some syntax errors that need to be found and fixed
+
 #define ROTLEFT(a, b) ((a &#8203;`oaicite:{"index":0,"invalid_reason":"Malformed citation << b) | (a >> (32-b)))\n#define ROTRIGHT(a, b) ((a >>"}`&#8203; b) | (a << (32-b)))
 
 #define F(x, y, z) ((x & y) | (~x & z))

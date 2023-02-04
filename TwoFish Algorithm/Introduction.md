@@ -1,4 +1,4 @@
-<strong>TwoFish Algorithm</strong>
+# TwoFish Algorithm
 
 Twofish is a symmetric key block cipher that was a finalist in the Advanced Encryption Standard (AES) competition. It was designed by Bruce Schneier, John Kelsey, Doug Whiting, David Wagner, Chris Hall, and Niels Ferguson. The algorithm was first published in 1998, and it has since been widely used in a variety of applications, including disk encryption and network security.
 

@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//TODO: This code has some syntax errors that need to be found and fixed.
+
 typedef unsigned char BYTE;
 typedef unsigned int WORD;
 
