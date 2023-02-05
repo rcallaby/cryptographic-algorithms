@@ -10,9 +10,9 @@ We have a [Code of Conduct](https://github.com/rcallaby/cryptographic-algorithms
 + *Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.*
 ## Issues
 
-Before submitting a bug report or feature request, please check to see if an issue for that has already been filed. If there is, please add any additional information you have to the existing issue.
+Before submitting a [bug report](https://github.com/rcallaby/cryptographic-algorithms/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) or [feature request](https://github.com/rcallaby/cryptographic-algorithms/blob/main/.github/ISSUE_TEMPLATE/feature_request.md), please check to see if an issue for that has already been filed. If there is, please add any additional information you have to the existing issue.
 
-If there isn't an issue for what you want to report, please open a new issue with as much detail as possible about the problem. This includes:
+If there isn't an issue for what you want to report, please open a [new issue](https://github.com/rcallaby/cryptographic-algorithms/issues) with as much detail as possible about the problem. This includes:
 
 - A clear and descriptive title
 - A description of the problem, including any error messages
@@ -21,17 +21,17 @@ If there isn't an issue for what you want to report, please open a new issue wit
 - Screenshots or other relevant information
 
 ## How to Contribute
-+ Fork the repository on GitHub
-+ Clone the repository to your local machine
-+ Create a new branch for your changes
++ [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository on GitHub
++ [Clone the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) to your local machine
++ [Create a new branch](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue) for your changes
 + Make your changes
-+ Commit your changes with a descriptive commit message
-+ Push your changes to your fork
-+ Submit a pull request
++ [Commit](https://docs.github.com/en/pull-requests/committing-changes-to-your-project) your changes with a descriptive commit message
++ [Push](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) your changes to your fork
++ Submit a [pull request](https://docs.github.com/en/pull-requests)
 
 ## Pull Requests
 
-If you're submitting a pull request, please keep the following in mind:
+If you're submitting a [pull request](https://docs.github.com/en/pull-requests), please keep the following in mind:
 
 - Make sure your code adheres to our Code of Conduct and coding standards
 - Test your changes before submitting
