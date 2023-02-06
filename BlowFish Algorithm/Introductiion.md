@@ -1,4 +1,4 @@
-<strong>BlowFish Algorithm</strong>
+# BlowFish Algorithm
 
 Blowfish is a symmetric key block cipher that was designed by Bruce Schneier in 1993. It is a fast and secure encryption algorithm that is well-suited for both software and hardware implementations.
 
@@ -16,4 +16,4 @@ Another benefit of Blowfish is that it is considered to be very secure, due to i
 
 Blowfish has been widely used in a variety of applications, including disk encryption, secure communications, and e-commerce. One of the most popular implementations of Blowfish is the OpenSSL toolkit, which is widely used to encrypt web traffic. The algorithm is also included as part of the Secure Shell (SSH) protocol, which is used to secure network communications.
 
-In conclusion, Blowfish is a fast and secure encryption algorithm that is well-suited for both software and hardware implementations. The algorithm can be used with a wide range of key lengths, and it is considered to be one of the most secure encryption algorithms available. Blowfish has been widely used in a variety of applications, including disk encryption, secure communications, and e-commerce. As an information security student, it is important to have a good understanding of Blowfish and its applications.
+Blowfish is a fast and secure encryption algorithm that is well-suited for both software and hardware implementations. The algorithm can be used with a wide range of key lengths, and it is considered to be one of the most secure encryption algorithms available. Blowfish has been widely used in a variety of applications, including disk encryption, secure communications, and e-commerce. As an information security student, it is important to have a good understanding of Blowfish and its applications.
