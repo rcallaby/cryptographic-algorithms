@@ -25,3 +25,11 @@ Asymmetric key algorithms: Asymmetric key algorithms use two different keys, one
 Hash functions: Hash functions are used to generate a fixed-length output, called a hash, from an input of arbitrary length. Examples include the Secure Hash Algorithm (SHA) and the Message Digest 5 (MD5) algorithm.
 
 Learning cryptographic algorithms is an important part of computer science and information security education. It provides students with a deeper understanding of security concepts, relevance to modern computing, and career opportunities. With the continued growth in the importance of cryptography, students who learn these algorithms are well positioned for success in their careers and in their contribution to a more secure digital world.
+
+### Table of Contents
++ AES Algorithm
++ BlowFish Algorithm
++ HASH Functions
++ RSA Algorithm
++ Triple DES
++ Twofish Algorithm
