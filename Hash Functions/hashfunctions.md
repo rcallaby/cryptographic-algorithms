@@ -1,4 +1,4 @@
-<strong>Hash Functions</strong>
+# Hash Functions
 
 Cryptography is a discipline of mathematics that deals with the creation and analysis of algorithms for secure communication. One of the essential components of cryptography is hash functions. A hash function is a mathematical algorithm that takes in an input (or "message") and returns a fixed-size string of bits, known as a "hash".
 
