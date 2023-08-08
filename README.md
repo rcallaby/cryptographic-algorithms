@@ -27,9 +27,14 @@ Hash functions: Hash functions are used to generate a fixed-length output, calle
 Learning cryptographic algorithms is an important part of computer science and information security education. It provides students with a deeper understanding of security concepts, relevance to modern computing, and career opportunities. With the continued growth in the importance of cryptography, students who learn these algorithms are well positioned for success in their careers and in their contribution to a more secure digital world.
 
 ### Table of Contents
-+ AES Algorithm
-+ BlowFish Algorithm
-+ HASH Functions
-+ RSA Algorithm
-+ Triple DES
-+ Twofish Algorithm
+- AES Algorithm
+- BlowFish Algorithm
+- Camilla
+- Elliptic Curve
+- HASH Functions
+- RSA Algorithm
+- Salsa20
+- Serpent
+- Triple DES
+- Twofish Algorithm
+- ThreeFish Algorithm
