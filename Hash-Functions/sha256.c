@@ -119,6 +119,7 @@ void hash_message(BYTE message[], DWORD message_len, BYTE hash[])
 
 int main(int argc, char* argv[])
 {
+    int HASH_SIZE = 256;
     BYTE message[] = "The quick brown fox jumps over the lazy dog";
     DWORD message_len = strlen((char*)message);
     BYTE hash[HASH_SIZE];
