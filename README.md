@@ -32,9 +32,9 @@ Learning cryptographic algorithms is an important part of computer science and i
 - [Camilla](https://github.com/rcallaby/cryptographic-algorithms/blob/main/Camillia/Introduction.md)
 - [Elliptic Curve](https://github.com/rcallaby/cryptographic-algorithms/blob/main/Elliptic-Curve/Introduction.md)
 - [HASH Functions](https://github.com/rcallaby/cryptographic-algorithms/blob/main/Hash-Functions/introduction.md)
-- RSA Algorithm
-- Salsa20
-- Serpent
-- Triple DES
-- Twofish Algorithm
-- ThreeFish Algorithm
+- [RSA Algorithm](https://github.com/rcallaby/cryptographic-algorithms/tree/main/RSA-Algorithm)
+- [Salsa20](https://github.com/rcallaby/cryptographic-algorithms/tree/main/Salsa20)
+- [Serpent](https://github.com/rcallaby/cryptographic-algorithms/tree/main/Serpent)
+- [Triple DES](https://github.com/rcallaby/cryptographic-algorithms/tree/main/Triple-DES)
+- [Twofish Algorithm](https://github.com/rcallaby/cryptographic-algorithms/tree/main/TwoFish-Algorithm)
+- [ThreeFish Algorithm](https://github.com/rcallaby/cryptographic-algorithms/tree/main/ThreeFish-Algorithm)
