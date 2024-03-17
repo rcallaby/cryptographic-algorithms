@@ -74,6 +74,7 @@ void chacha20_decrypt(const uint8_t key[32], const uint8_t nonce[8], const uint3
 }
 
 int main() {
+
     // Key and nonce for ChaCha20
     uint8_t key[32] = {
         0x00, 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07,
@@ -97,7 +98,7 @@ int main() {
     size_t text_len = strlen(plaintext);
 
     // Buffer for ciphertext
-    uint8_t ciphertext[text_len];
+    uint8_t ciphertext[4096];
 
     // Encrypt the plaintext
     chacha20_encrypt(key, nonce, counter, ciphertext);
@@ -110,7 +111,7 @@ int main() {
     printf("\n");
 
     // Buffer for decrypted plaintext
-    uint8_t decrypted[text_len];
+    uint8_t decrypted[4096];
 
     // Decrypt the ciphertext
     chacha20_decrypt(key, nonce, counter, ciphertext, decrypted);
